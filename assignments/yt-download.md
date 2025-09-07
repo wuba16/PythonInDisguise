@@ -8,7 +8,7 @@ Click the link above to watch the video on LinkedIn.
 
 # Colab Notebook
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wuba16/PythonInDisguise/blob/main/assignments/yt_downloading.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wuba16/PythonInDisguise/blob/main/assignments/Youtube video download.ipynb)
 
 Click the badge above to open the notebook in Google Colab.
 
